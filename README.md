@@ -1,4 +1,4 @@
-<center>Hola Mundo!!! 👋</center>
+#< Hola Mundo!!! > 👋
 
 Soy **Raquel**, estudiante de Front End en **Laboratoria**, me apasiona el aprendizaje y la tecnología, me gusta encontrar soluciones creativas y funcionales a través de ella. 
 
