@@ -1,4 +1,4 @@
-<h1 aling-items:center> Hola Mundo!!! 👋</h1>
+<center>Hola Mundo!!! 👋</center>
 
 Soy **Raquel**, estudiante de Front End en **Laboratoria**, me apasiona el aprendizaje y la tecnología, me gusta encontrar soluciones creativas y funcionales a través de ella. 
 
