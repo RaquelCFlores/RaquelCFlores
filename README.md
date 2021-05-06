@@ -2,15 +2,7 @@
 
 Soy **Raquel**, estudiante de Front End en **Laboratoria**, me apasiona el aprendizaje y la tecnología, me gusta encontrar soluciones creativas y funcionales a través de ella. 
 
-```css
-{:.center}
-```
-![Tech](https://fptecnologi.com/wp-content/uploads/2020/05/tecnologia-digital-coronavirus.jpg)
-```css
-.center {
-  text-align: center;
-}
-```
+<center>![Tech](https://fptecnologi.com/wp-content/uploads/2020/05/tecnologia-digital-coronavirus.jpg)</center>
 
 # Herramientas 
  ![JavaScript](https://camo.githubusercontent.com/95df2e72c00f1c443beec87d3102779178db0010204da8692251303f0e5fc5a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69)
