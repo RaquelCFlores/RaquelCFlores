@@ -5,7 +5,6 @@ Soy **Raquel**, estudiante de Front End en **Laboratoria**, me apasiona el apren
 ```css
 {:.center}
 ```
-[Linkedin](https://www.linkedin.com/in/raquel-cruz-flores-6945b2b9/)
 ![Tech](https://fptecnologi.com/wp-content/uploads/2020/05/tecnologia-digital-coronavirus.jpg)
 ```css
 .center {
